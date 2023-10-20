@@ -2,7 +2,7 @@ package Lab3.Zad1;
 
 public class Main {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 
         PrinterMonitor monitor = new PrinterMonitor(3);
 

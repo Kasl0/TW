@@ -2,7 +2,7 @@ package Lab3.Zad2;
 
 public class Main {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 
         Waiter waiter = new Waiter();
 
