@@ -3,8 +3,8 @@ package Lab3.Zad1;
 import java.util.concurrent.locks.*;
 
 public class PrinterMonitor {
-    final Lock lock = new ReentrantLock();
-    final Condition notFull  = lock.newCondition();
+    private final Lock lock = new ReentrantLock();
+    private final Condition notFull  = lock.newCondition();
 
     private int count;
     private int no_printers;

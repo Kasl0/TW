@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a55ab67-da0e-4e6f-b9a3-35a01fa3ee6b" name="Changes" comment="Lab2 complete">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/PrinterMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/Thread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad2/Waiter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/PrinterMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/PrinterMonitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/kaslo/Documents/GitHub/TW",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Kaslo/Desktop/GitHub/TW/src/main/java/Lab3/Zad2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -54,11 +57,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kaslo\Desktop\GitHub\TW\src\main\java\Lab3\Zad2" />
       <recent name="C:\Users\kaslo\Documents\GitHub\TW\src\main\java\Lab2\Zad2" />
       <recent name="C:\Users\kaslo\Documents\GitHub\TW\src\main\java\Lab2\Zad1" />
       <recent name="C:\Users\kaslo\Documents\GitHub\TW\src\main\java\Lab1\Zad3" />
       <recent name="C:\Users\kaslo\Documents\GitHub\TW\src\main\java\Lab1\Zad2" />
-      <recent name="C:\Users\kaslo\Documents\GitHub\TW\src\main\java\Lab1\Zad1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Lab3.Zad1" />
@@ -103,6 +106,17 @@
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Repo init" />

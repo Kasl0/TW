@@ -1,0 +1,46 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,9 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="5a55ab67-da0e-4e6f-b9a3-35a01fa3ee6b" name="Changes" comment="Lab2 Zad1">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2/Zad2/Consumer.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2/Zad2/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2/Zad2/Semaphore.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -38,7 +36,7 @@
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "last_opened_file_path": "C:/Users/kaslo/Documents/GitHub/TW/src/main/java/Lab2/Zad2",
++    "last_opened_file_path": "C:/Users/Kaslo/Desktop/GitHub/TO/Lab2",
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.0",
+     "project.structure.side.proportion": "0.0"
+@@ -85,6 +83,17 @@
+     </task>
+     <option name="localTasksCounter" value="4" />
+     <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Repo init" />

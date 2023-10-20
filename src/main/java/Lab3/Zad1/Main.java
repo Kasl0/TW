@@ -7,17 +7,10 @@ public class Main {
         PrinterMonitor monitor = new PrinterMonitor(3);
 
         int NO_THREADS = 5;
-        Thread[] threads = new Thread[NO_THREADS];
 
         for (int i=0; i<NO_THREADS; i++) {
-            threads[i] = new Thread(monitor);
-            threads[i].start();
+            Thread thread = new Thread(monitor);
+            thread.start();
         }
-
-        for (int i=0; i<NO_THREADS; i++) {
-            threads[i].join();
-        }
-
-        System.out.println("End");
     }
 }
