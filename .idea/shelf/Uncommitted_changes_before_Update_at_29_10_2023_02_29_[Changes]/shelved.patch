@@ -1,0 +1,60 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,15 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="5a55ab67-da0e-4e6f-b9a3-35a01fa3ee6b" name="Changes" comment="Lab3 Zad2">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad3/Forks.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad3/ForksWithWaiter.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad3/IForks.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad3/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad3/Philosopher.java" afterDir="false" />
++    <list default="true" id="5a55ab67-da0e-4e6f-b9a3-35a01fa3ee6b" name="Changes" comment="Lab3 complete">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad1/Main.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab3/Zad2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab3/Zad2/Main.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -51,7 +44,7 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "last_opened_file_path": "C:/Users/Kaslo/Desktop/GitHub/TW/src/main/java/Lab3/Zad3",
++    "last_opened_file_path": "C:/Users/Kaslo/Desktop/GitHub/TO/Lab2",
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.0",
+     "project.structure.side.proportion": "0.0"
+@@ -114,7 +107,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1697763778729</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="Lab3 complete">
++      <created>1697767089991</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1697767089991</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -134,6 +134,7 @@
+     <MESSAGE value="Lab2 Zad1" />
+     <MESSAGE value="Lab2 complete" />
+     <MESSAGE value="Lab3 Zad2" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Zad2" />
++    <MESSAGE value="Lab3 complete" />
++    <option name="LAST_COMMIT_MESSAGE" value="Lab3 complete" />
+   </component>
+ </project>
+\ No newline at end of file

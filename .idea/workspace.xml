@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a55ab67-da0e-4e6f-b9a3-35a01fa3ee6b" name="Changes" comment="Lab3 Zad1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Buffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Process.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_10_2023_01_21__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_10_2023_01_21__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_10_2023_01_21__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_10_2023_01_21__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_10_2023_01_21_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_10_2023_01_21__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2023_11_43__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2023_11_43__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Buffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Process.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad1/Process.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
