@@ -1,17 +1,19 @@
 package Lab4.Zad2;
 
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Random;
 
 public class Producer extends Thread {
 
-    IBuffer buffer;
-    int M;
-    Timer timer;
+    private IBuffer buffer;
+    private int M;
+    private FileWriter fw;
 
-    public Producer(IBuffer buffer, int M, Timer timer) {
+    public Producer(IBuffer buffer, int M, FileWriter fw) {
         this.buffer = buffer;
         this.M = M;
-        this.timer = timer;
+        this.fw = fw;
     }
 
     public void run() {
@@ -23,10 +25,8 @@ public class Producer extends Thread {
                 long time1 = System.nanoTime();
                 buffer.insert(randomCount);
                 long time2 = System.nanoTime();
-                timer.time_sum += (double)(time2 - time1) / 1000000;
-                timer.iterations++;
-                System.out.println("Avg insert time: " + (timer.time_sum / timer.iterations) + " ms");
-            } catch (InterruptedException e) {
+                fw.write("insert," + randomCount + "," + (time2 - time1) + '\n');
+            } catch (InterruptedException | IOException e) {
                 throw new RuntimeException(e);
             }
         }

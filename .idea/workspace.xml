@@ -4,17 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a55ab67-da0e-4e6f-b9a3-35a01fa3ee6b" name="Changes" comment="Lab4 Zad1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Buffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/FairBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/IBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/WaitingTimesComparison.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/WaitingTimesComparison.xlsx" afterDir="false" />
+    <list default="true" id="5a55ab67-da0e-4e6f-b9a3-35a01fa3ee6b" name="Changes" comment="Lab4">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/waiting_times.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/waiting_times_buffer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/waiting_times_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/waiting_times_fair_buffer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2023_11_43_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2023_11_43__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_10_2023_02_29_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_10_2023_02_29__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_10_2023_02_29__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_10_2023_02_29__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/WaitingTimesComparison.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab4/Zad2/WaitingTimesComparison.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +60,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/Kaslo/Desktop/GitHub/TW/src/main/java/Lab4/Zad2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -73,6 +81,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Lab4.Zad1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.Zad1.Main" />
+      <module name="TW.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab4.Zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab4.Zad2.Main" />
       <module name="TW.main" />
@@ -88,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab4.Zad1.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
