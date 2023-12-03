@@ -1,5 +1,3 @@
-const { time } = require("console");
-
 fs = require("fs");
 
 var Fork = function() {
@@ -186,13 +184,11 @@ Philosopher.prototype.startConductor = function(count) {
     doCycle(count);
 }
 
-/*
 fs.writeFile('times.csv', "method,no_philosophers,time\n", err => {
     if (err) {
         console.error(err);
     }
 });
-*/
 
 var N = 10;
 var no_cycles = 10;
@@ -218,7 +214,7 @@ for (var i = 0; i < N; i++) {
 
 for (var i = 0; i < N; i++) {
     // philosophers[i].startNaive(no_cycles);
-    //philosophers[i].startAsym(no_cycles);
+    // philosophers[i].startAsym(no_cycles);
     philosophers[i].startConductor(no_cycles);
 }
 
