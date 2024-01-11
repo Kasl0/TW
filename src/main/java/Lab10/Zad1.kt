@@ -23,7 +23,7 @@ fun main() {
 
 suspend fun producer(brokers: ArrayList<Channel<Int>>) {
     while (true) {
-        select {
+        select<Unit> {
             brokers.forEach { channel -> channel.onSend(0){}}
         }
         delay(100)
@@ -38,7 +38,7 @@ suspend fun broker(producer: Channel<Int>, consumer: Channel<Int>) {
 
 suspend fun consumer(brokers: ArrayList<Channel<Int>>) {
     while (true) {
-        select {
+        select<Unit> {
             brokers.forEach { channel -> channel.onReceive { value -> println("$value consumed") } }
         }
         delay(100)
